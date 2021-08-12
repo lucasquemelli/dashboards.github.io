@@ -47,3 +47,28 @@ To do:
 plotly.express
 
 1. Bar Chart
+
+Idea: Extract number of flights from a specific airline that goes to a destination
+
+![image](https://user-images.githubusercontent.com/81119854/129199256-6d1a8442-ada6-4f7c-ae86-547e4fad5d3c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199317-154d03f1-b13b-4249-b638-cd5a3d6ac0dc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199368-b0fe4a5d-192b-4480-a82c-ed7fa12c7ca4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199431-b869b7e2-2bc1-47ed-a922-2c209a2a3ca0.png)
+
+2. Bubble Chart
+
+Idea: Get number of flights as per reporting airline
+
+![image](https://user-images.githubusercontent.com/81119854/129199602-1933b86a-c9ed-4a7d-a0fe-4096984abe1c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199682-1687642e-af02-4b7d-9542-5b53382ffe02.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199718-43bf061e-c91d-4795-a4c4-7b135a04731f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199759-85cb573a-a4ac-4cdb-8a88-fa41b5a33704.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129199847-456a6b5e-5294-43db-b0df-673ec29d3f5c.png)
+
