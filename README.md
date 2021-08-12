@@ -102,3 +102,15 @@ To do
 
 ![image](https://user-images.githubusercontent.com/81119854/129202873-09c1b2f0-1364-4358-be39-482136b7a5cb.png)
 
+# Dash basics: HTML and core components
+
+Let's start creating dash application
+
+Goal
+
+Create a dashboard that displays the percentage of flights running under specific distance group. Distance group is the distance intervals, every 250 miles, for flight segment. If the flight covers to 500 miles, it will be under distance group 2 (250 miles + 250 miles).
+
+Get the tool ready
+
+![image](https://user-images.githubusercontent.com/81119854/129210278-c54f3a00-8fd6-4439-8df1-d9babf6542f6.png)
+
