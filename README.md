@@ -72,3 +72,33 @@ Idea: Get number of flights as per reporting airline
 
 ![image](https://user-images.githubusercontent.com/81119854/129199847-456a6b5e-5294-43db-b0df-673ec29d3f5c.png)
 
+Histogram
+
+Idea: Get distribution of arrival delay
+
+![image](https://user-images.githubusercontent.com/81119854/129202303-f51419d3-cfa2-42a8-80f9-6619ef8436e4.png)
+
+To do
+
+![image](https://user-images.githubusercontent.com/81119854/129202416-8b6cc0e8-7509-4380-abd6-d25b75318b9d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129202452-86a64e53-b245-4a40-bec3-e52d2a2a9b34.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129202497-191074d9-2673-4091-9323-a053ecd20d26.png)
+
+Pie Chart
+
+Idea: Proportion of distance group by month (month indicated by numbers)
+
+![image](https://user-images.githubusercontent.com/81119854/129202660-85968f9d-bb78-4624-a159-016a2c46f6e5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129202707-8678309c-6c91-442a-87d7-a3563dccf5ef.png)
+
+Sunburst Charts
+
+Idea: Hierarchical view in othe order of month and destination state holding value of number of flights
+
+To do
+
+![image](https://user-images.githubusercontent.com/81119854/129202873-09c1b2f0-1364-4358-be39-482136b7a5cb.png)
+
