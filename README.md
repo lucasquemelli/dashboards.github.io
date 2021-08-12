@@ -122,3 +122,29 @@ Proportion of distance group (250 mile distance interval group) by month (month 
 
 ![image](https://user-images.githubusercontent.com/81119854/129276802-38dc60b9-85ef-44b4-927d-4733378bfd69.png)
 
+Let's start creating dash application
+
+Theme
+Proportion of distance group (250 mile distance interval group) by month (month indicated by numbers).
+
+To do:
+
+1.Import required libraries and create an application layout
+2.Add title to the dashboard using HTML H1 component
+3.Add a paragraph about the chart using HTML P component
+4.Add the pie chart created above using core graph component
+5.Run the app
+
+Hints
+
+![image](https://user-images.githubusercontent.com/81119854/129277193-edb3af17-ee00-43a2-b776-96790211f062.png)
+![image](https://user-images.githubusercontent.com/81119854/129277219-c2bd4941-58ef-4f42-8504-0bb0699e75af.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129277292-f56efb40-94e9-4c36-9cf2-bcf4c98b3302.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129277356-27efc44a-12a9-46f1-91a5-0da4cc90ff7a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129277438-400fa871-7451-49ef-b3af-5013bcc1d4b1.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129277463-15512ce3-4693-4475-bb0b-af144051e964.png)
+
