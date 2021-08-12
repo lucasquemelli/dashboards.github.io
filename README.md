@@ -102,4 +102,23 @@ To do
 
 ![image](https://user-images.githubusercontent.com/81119854/129202873-09c1b2f0-1364-4358-be39-482136b7a5cb.png)
 
-# AB
+# Dash basics: HTML and core components using Jupyterlab
+
+![image](https://user-images.githubusercontent.com/81119854/129276528-d01f9737-921d-4573-b2cc-8a8802638025.png)
+
+Load the data
+
+![image](https://user-images.githubusercontent.com/81119854/129276564-5172b1ef-0ae6-4b2c-9011-0cd69ffb9870.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129276626-7c068c95-9ab1-432c-b41b-2a067129ca6e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129276657-67305a29-a751-4dda-a93c-0a086fc9c033.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129276709-32a6b3d3-6c29-41f5-8067-bc6eaa9b664f.png)
+
+Proportion of distance group (250 mile distance interval group) by month (month indicated by numbers).
+
+![image](https://user-images.githubusercontent.com/81119854/129276779-786f3a73-d8d5-44cd-a28c-34609cf0bcff.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129276802-38dc60b9-85ef-44b4-927d-4733378bfd69.png)
+
