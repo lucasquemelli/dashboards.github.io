@@ -148,5 +148,4 @@ Hints
 
 ![image](https://user-images.githubusercontent.com/81119854/129277463-15512ce3-4693-4475-bb0b-af144051e964.png)
 
-# Add interactivity: user input and callbacks using JupyterLab
 
