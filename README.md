@@ -148,4 +148,9 @@ Hints
 
 ![image](https://user-images.githubusercontent.com/81119854/129277463-15512ce3-4693-4475-bb0b-af144051e964.png)
 
+# Dashboard aula House Rocket
+
+![image](https://user-images.githubusercontent.com/81119854/130336839-3c0a0da1-aa9a-4733-a798-3b12451c0428.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130336849-42a3b3a9-9bd8-413a-b3ce-abb0e110c861.png)
 
